@@ -1,0 +1,95 @@
+.title {
+    width: auto;
+    height: 140px;
+    margin: 100px; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    color: darkslategray;
+    background-color: gray;
+    text-align: center;
+    line-height: 120px;
+}
+
+.color-1 {
+    width: auto;
+    height: 110px;
+    margin: 50px; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    color: gray;
+    background-color: violet;
+    text-align: center;
+    line-height: 100px;
+}
+
+.color-2 {
+    width: auto;
+    height: 110px;
+    margin: 50px; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    color: gray;
+    background-color: purple;
+    text-align: center;
+    line-height: 100px;
+}
+
+.color-3 {
+    width: auto;
+    height: 110px;
+    margin: 50px; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    color: gray;
+    background-color: blue;
+    text-align: center;
+    line-height: 100px;
+}
+
+.color-4 {
+    width: auto;
+    height: 110px;
+    margin: 50px; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    color: gray;
+    background-color: green;
+    text-align: center;
+    line-height: 100px;
+}
+
+.color-5 {
+    width: auto;
+    height: 110px;
+    margin: 50px; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    color: gray;
+    background-color: yellow;
+    text-align: center;
+    line-height: 100px;
+}
+
+.color-6 {
+    width: auto;
+    height: 110px;
+    margin: 50px; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    color: gray;
+    background-color: orange;
+    text-align: center;
+    line-height: 100px;
+}
+
+.color-7 {
+    width: auto;
+    height: 110px;
+    margin: 50px; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    color: gray;
+    background-color: red;
+    text-align: center;
+    line-height: 100px;
+}
